@@ -1,0 +1,10 @@
+2025-02-16 20:25:54 [INFO] ====== WebDriver manager ======
+2025-02-16 20:25:55 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-16 20:25:55 [INFO] Get LATEST chromedriver version for google-chrome
+2025-02-16 20:25:55 [INFO] Driver [C:\Users\dell\.wdm\drivers\chromedriver\win64\133.0.6943.98\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-16 20:26:00 [INFO] Home page title verified
+2025-02-16 20:26:00 [INFO] Checkboxes page title verified
+2025-02-16 20:26:00 [INFO] Checkbox 1 status: False
+2025-02-16 20:26:00 [INFO] Checkbox 2 status: True
+2025-02-16 20:26:01 [INFO] File Uploader page title verified
+2025-02-16 20:26:01 [INFO] File upload success message verified
